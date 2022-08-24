@@ -6,6 +6,6 @@ public class Methodlarim {
             // 2.yol return x % 2!=1;
         }
         public static void yazdir(Object obj){
-            System.out.print(obj+" ");
+            System.out.println(obj+" ");
         }
 }
